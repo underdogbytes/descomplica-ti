@@ -1,39 +1,47 @@
-# Exercícios
+# Coaching e Planejamento de Carreira: Descoberta das preferências e aplicações do Holland
+
+## Exercícios
 
 
-## 01. ​Quais são as características do estilo Realístico?
-
-### Resposta:
-Gostam de coisas objetivas e concretas. São tidas como simples, sinceras e práticas
-
-
-## 02. Quais são as características do estilo Investigativo?
+## Questão 01
+​Quais são as características do estilo Realístico?
 
 ### Resposta:
-Gostam de entender o mundo, as pessoas, a natureza, seja para prever, para controlar, analisar ou tomar decisões
+- a) Gostam de coisas objetivas e concretas. São tidas como simples, sinceras e práticas
 
 
-## 03. Quais são as características do estilo Artístico?
+## Questão 02
+Quais são as características do estilo Investigativo?
+
+### Resposta:
+- b) Gostam de entender o mundo, as pessoas, a natureza, seja para prever, para controlar, analisar ou tomar decisões
+
+
+## Questão 03
+- c) Quais são as características do estilo Artístico?
 
 ### Resposta:
 Gostam de mudar, inovar e criar. Suas atividades principais estão ligadas à imaginação e à sensibilidade
 
 
-## 04. ​Quais são as características do estilo Social?
+## Questão 04
+​Quais são as características do estilo Social?
 
 ### Resposta:
-​Gostam e buscam contato com os outros, seja para ajudar, informar, treinar, desenvolver, curar, esclarecer, servir, ensinar, ouvir ou cuidar
+- d) ​Gostam e buscam contato com os outros, seja para ajudar, informar, treinar, desenvolver, curar, esclarecer, servir, ensinar, ouvir ou cuidar
 
-## 05. ​Quais são as características do estilo Empreendedor?
-
-### Resposta:
-Gostam de dirigir, coordenar as atividades, para alcançar seus objetivos, para atingir metas das empresas, ou para conseguir resultados produtivos e obter lucro
-
-
-​## 06. Quais são as características do estilo Convencional?
+## Questão 05
+​Quais são as características do estilo Empreendedor?
 
 ### Resposta:
-Gostam de trabalho concreto, bem organizado, rotineiro e com regras claras. Não gostam muito de atividades desestruturadas
+- e) Gostam de dirigir, coordenar as atividades, para alcançar seus objetivos, para atingir metas das empresas, ou para conseguir resultados produtivos e obter lucro
+
+
+​## Questão 06
+Quais são as características do estilo Convencional?
+
+### Resposta:
+- e) Gostam de trabalho concreto, bem organizado, rotineiro e com regras claras. Não gostam muito de atividades desestruturadas
 
 
 

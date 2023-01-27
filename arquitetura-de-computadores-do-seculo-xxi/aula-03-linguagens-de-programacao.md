@@ -1,4 +1,6 @@
-# Exercícios: linguagem de programação
+# Arquitetura de Computadores do Século XXI: Linguagem de Programação
+
+# Exercícios
 
 
 ## Questão 01 

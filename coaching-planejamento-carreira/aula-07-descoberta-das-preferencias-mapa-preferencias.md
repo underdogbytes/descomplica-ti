@@ -1,35 +1,45 @@
-# Exercícios
+# Coaching e Planejamento de Carreira: Descoberta das Preferências - MapaPreferências
+
+## Exercícios
 
 
-## 01. Quais são as características do Córtex analítico?
-
-### Resposta:
-Analisa e argumenta logicamente, privilegia os aspectos técnicos, considera os dados financeiros
-
-
-## 02. Quais são as características do Córtex experimental?
+## Questão 01
+Quais são as características do Córtex analítico?
 
 ### Resposta:
-Vê as grandes linhas, antecipa, lê as linhas de mudança
+- c) Analisa e argumenta logicamente, privilegia os aspectos técnicos, considera os dados financeiros
 
 
-## 03. Quais são as características do Límbico organizado?
-
-### Resposta:
-Organiza planejamentos e procedimentos, estabelece planos e calendários, cuida dos detalhes
-
-## 04. Quais são as características do Límbico relacional?
+## Questão 02
+Quais são as características do Córtex experimental?
 
 ### Resposta:
-Detecta os problemas humanos, coloca-se no lugar do outro, concilia, ajuda
-
-## 05. Qual das teorias abaixo fez parte das teorias e pesquisas que serviram de base para o MapaPreferências?
-
-### Resposta:
-Teoria do cérebro Triúnico
+- e) Vê as grandes linhas, antecipa, lê as linhas de mudança
 
 
-## 06. Como se obtém o MapaPreferências?
+## Questão 03
+Quais são as características do Límbico organizado?
 
 ### Resposta:
-Preenchimento de questionário com 68 questões sobre situações profissionais simuladas
+- a) Organiza planejamentos e procedimentos, estabelece planos e calendários, cuida dos detalhes
+
+
+## Questão 04
+Quais são as características do Límbico relacional?
+
+### Resposta:
+- d) Detecta os problemas humanos, coloca-se no lugar do outro, concilia, ajuda
+
+
+## Questão 05
+Qual das teorias abaixo fez parte das teorias e pesquisas que serviram de base para o MapaPreferências?
+
+### Resposta:
+- c) Teoria do cérebro Triúnico
+
+
+## Questão 06
+Como se obtém o MapaPreferências?
+
+### Resposta:
+- d) Preenchimento de questionário com 68 questões sobre situações profissionais simuladas

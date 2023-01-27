@@ -1,45 +1,52 @@
-# Exercícios
+# Coaching e Planejamento de Carreira: Construção do projeto profissional
+
+## Exercícios
 
 
-## 01. Sobre que diretrizes básicas é construída uma carreira profissional de sucesso?
-
-### Resposta:
-Atendimento das necessidades do mercado (o que as empresas precisam), utilização das competências (o que se sabe fazer) e satisfação das preferências pessoais (o que gosta de fazer)
-
-
-## 02. Qual o processo para construção de um projeto profissional?
+## Questão 01
+Sobre que diretrizes básicas é construída uma carreira profissional de sucesso?
 
 ### Resposta:
-Avaliação das características e competências pessoais, definição clara de um projeto de vida que amplifique estas características e a montagem de um plano de ação
+- a) Atendimento das necessidades do mercado (o que as empresas precisam), utilização das competências (o que se sabe fazer) e satisfação das preferências pessoais (o que gosta de fazer)
 
 
-## 03. O que representa o conceito da “moeda” com que se quer ser pago pelo trabalho?
-
-### Resposta:
-O retorno realmente esperado pelo profissional como resultado de seus esforços no trabalho. O que ele espera receber em troca de seu trabalho
-
-
-## 04. O que significa o seu diferencial?
+## Questão 02
+Qual o processo para construção de um projeto profissional?
 
 ### Resposta:
-É o que distingue cada pessoa na avaliação dos demais. É como são vistos pelos demais
+- a) Avaliação das características e competências pessoais, definição clara de um projeto de vida que amplifique estas características e a montagem de um plano de ação
 
 
-## 05. Para que definir seu “crachá” no projeto de carreira?
-
-### Resposta:
-Porque ele é minha identidade profissional
-
-
-
-## 06. Por que é importante definir o que é ter chegado ao sucesso para você?
+## Questão 03
+O que representa o conceito da “moeda” com que se quer ser pago pelo trabalho?
 
 ### Resposta:
-Porque esta definição permite estabelecer o que efetivamente se busca ao longo da vida e da carreira profissional. O sucesso vai além do objetivo
+- d) O retorno realmente esperado pelo profissional como resultado de seus esforços no trabalho. O que ele espera receber em troca de seu trabalho
 
 
+## Questão 04
+O que significa o seu diferencial?
 
-# Pensar & Responder
+### Resposta:
+- a) É o que distingue cada pessoa na avaliação dos demais. É como são vistos pelos demais
+
+
+## Questão 05
+Para que definir seu “crachá” no projeto de carreira?
+
+### Resposta:
+- a) Porque ele é minha identidade profissional
+
+
+## Questão 06
+Por que é importante definir o que é ter chegado ao sucesso para você?
+
+### Resposta:
+- c) Porque esta definição permite estabelecer o que efetivamente se busca ao longo da vida e da carreira profissional. O sucesso vai além do objetivo
+
+<hr>
+
+## Pensar & Responder
 
 > Como vimos na aula sobre Construção do Projeto Profissional, o processo de estruturação do projeto profissional possui três diretrizes básicas, que são: Atendimento das necessidades do mercado (o que as empresas precisam); Utilização das competências e habilidades (o que se sabe fazer) e a Satisfação das preferências pessoais (o que se gosta de fazer). É importante se estabelecer uma sequência de ações a serem realizadas e o controle de sua realização, assim como também é importante identificar meios e recursos que facilitem a implantação deste projeto.
 >

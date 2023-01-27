@@ -1,17 +1,9 @@
-# Exercícios
+# Disciplina: Aula
+
+## Exercícios
 
 
-## 01. 
-
-### Resposta:
-**Todas as anteriores**, sendo elas:
-- a) 
-- b) 
-- c) 
-- d) 
-
-
-## 02. 
+## Questão 01. 
 
 ### Resposta:
 **Todas as anteriores**, sendo elas:
@@ -21,7 +13,7 @@
 - d) 
 
 
-## 03. 
+## Questão 02. 
 
 ### Resposta:
 **Todas as anteriores**, sendo elas:
@@ -31,7 +23,7 @@
 - d) 
 
 
-## 04. 
+## Questão 03. 
 
 ### Resposta:
 **Todas as anteriores**, sendo elas:
@@ -41,7 +33,7 @@
 - d) 
 
 
-## 05. 
+## Questão 04. 
 
 ### Resposta:
 **Todas as anteriores**, sendo elas:
@@ -51,7 +43,17 @@
 - d) 
 
 
-## 06. 
+## Questão 05. 
+
+### Resposta:
+**Todas as anteriores**, sendo elas:
+- a) 
+- b) 
+- c) 
+- d) 
+
+
+## Questão 06. 
 
 ### Resposta:
 **Todas as anteriores**, sendo elas:
