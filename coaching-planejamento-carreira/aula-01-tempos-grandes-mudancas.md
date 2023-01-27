@@ -33,7 +33,8 @@ Sem grandes investimentos financeiros
 
 ## 06. ​O que caracteriza o novo trabalhador do conhecimento?
 
-Resposta:
+### Resposta:
+**Todas as anteriores**, sendo elas:
 Todas as respostas anteriores, sendo elas:
 - Ele é dono das suas ferramentas de trabalho
 - Ele também é dono do produto de seu trabalho

@@ -82,6 +82,6 @@ a) ​O objetivo do envio de um currículo sempre será de conseguir uma entrevi
 
 ## Resposta:
 
-Letra D
+D
 
 Fonte: Arial 12 (enviei 21/01/2023, espero estar certo kkkkkk)

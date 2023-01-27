@@ -4,7 +4,7 @@
 ## 01. Quais são os três pontos importantes para estruturar as etapas de um processo de coaching de carreira?
 
 ### Resposta:
-Todas as anteriores, sendo elas:
+**Todas as anteriores**, sendo elas:
 - O coaching de carreira não é um processo isolado
 - Todo o processo deve ser estruturado em cima de um método
 - O método pressupõe a utilização de ferramentas e exercícios
@@ -17,6 +17,7 @@ Todas as anteriores, sendo elas:
 - Uma etapa inicial de investigação e descoberta pessoal
 - Uma etapa intermediária que, estrutura as estratégias para definição dos objetivos
 - A etapa de criação de um sistema de acompanhamento
+
 
 ## 03. O que é um Balanço de Competências?
 
