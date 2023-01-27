@@ -4,7 +4,18 @@
 Se você chegou até aqui, muito provavelmente está fazendo Análise & Desenvolvimento de Sistemas no Descomplica e quer respostas.
 
 
-Seja lá o motivo pelo qual você quer o gabarito dos exercícios, eles estão aqui. Use com sabedoria e nos "Pensar & Responder" pode copiar só não faz igual hahaha
+Seja lá o motivo pelo qual você quer o gabarito dos exercícios, eles estão aqui.
+
+
+⚠️ **AVISO:** use com sabedoria os *"Pensar & Responder"*, porque como é dissertativa, às vezes a fonte é Arial 12 pq não tem como saber se tá certo mesmo até devolverem com correção kkkkk. Então se tiver escrito *fonte Arial 12* embaixo da resposta, é porque não teve retorno da questão pela plataforma kkkkk se fizerem devolutiva, vai estar assinalado ali o feedback ^-^
+
+
+## Sugestão de extensão VSCode
+
+Para facilitar a leitura, sugiro essa extensão aqui:
+
+https://marketplace.visualstudio.com/items?itemName=SumitNalavade.vscode-readme-editor 
+
 
 
 >  **Por que fiz esse repo?**
@@ -16,5 +27,3 @@ Seja lá o motivo pelo qual você quer o gabarito dos exercícios, eles estão a
 > Copia, só não faz igual para não dar na cara o ctrl+c ctrl+v
 > 
 > Até breve! :D
-
-
