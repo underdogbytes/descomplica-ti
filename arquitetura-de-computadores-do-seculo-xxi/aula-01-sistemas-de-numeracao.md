@@ -9,12 +9,20 @@
 ### Resposta:
 - e) ​10000
 
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> ​A conversão se dá por múltiplas divisões por 2 e o aproveitamento dos restos na ordem invertida, resultando 10000
+
 
 ## Questão 02
 Quanto é o número 1001 (base 2) convertido para a base 10 (decimal)?
 
 ### Resposta:
 - a) 9
+
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> ​A conversão se dá multiplicando-se cada dígito por 2 elevado à potência começando do zero da direita para a esquerda: 1 x 2^0 + 0x2^1 + 0x2^2 + 1x2^3 = 9
 
 
 ## Questão 03
@@ -23,12 +31,20 @@ O número 50 na base hexadecimal corresponde a qual número na base decimal?
 ### Resposta:
 - c) 80
 
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> ​50 (16) = 0 x 16^0 + 5 X 16^1 = 80 (base 10)
+
 
 ## Questão 04
 O número 04C na base hexadecimal corresponde a qual número na base decimal?
 
 ### Resposta:
 - d) 76
+
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> 12 x 16^0 + 4 x 16^1 + 0 x 16^2 = 12 + 64 = 76
 
 
 ## Questão 05
@@ -44,6 +60,10 @@ Levando em consideração o tipo de sistema de numeração utilizado pelos compu
 
 ### Resposta:
 - a) I, II e III são verdadeiras
+
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> ​Bit é a menor unidade de memória, admite 0 ou 1; já um byte reúne 8 bits o que permite 256 combinações diferentes de bits; o sistema binário admite dois algarismos, 0 ou 1. Dessa forma todas são verdadeiras.
 
 
 ## Questão 06
@@ -61,6 +81,10 @@ Na especificação de memória de computador, costuma-se utilizar como unidade d
 
 ### Resposta: 
 - e) Apenas a II está correta
+
+> SOLUÇÃO DO PROFESSOR ✨
+>
+> ​Considerando que 1 kbyte = 1024 bytes e que 1 Mbyte = 1024 kbytes, algo como 1,5 MB corresponde a 1,5 x 1024 KB, isto é, 1.536 KB
 
 <hr>
 
