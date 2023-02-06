@@ -6,8 +6,14 @@
 ## Questão 01 
 Qual das combinações abaixo reflete de forma correta os principais pontos sobre o que é Reputação?
 
-### Resposta:
 a) Público de interesse, experiências, ações da empresa e comparação com as ações de seus concorrentes
+b) ​Sustentabilidade, o que a empresa faz, experiências do consumidor e lealdade
+c) ​Público de interesse, sustentabilidade, lealdade e ações da empresa
+d) ​Comparação com os concorrentes, satisfação, governança e bons produtos e serviços
+e) ​Imagem, Identidade, Públicos de Interesse e lealdade
+
+### Resposta:
+Letra A
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -33,8 +39,14 @@ Considere as afirmações abaixo:
 
 Marque a opção correta em relação a pontos importantes na Economia da Reputação que vivemos hoje.
 
-### Resposta:
+a) As afirmações I e II estão corretas
+b) As afirmações II e III estão corretas
+c) ​Apenas a afirmação I está correta
+d) As afirmações I e III estão corretas
 e) Todas as afirmações estão corretas
+
+### Resposta:
+Letra E
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -52,8 +64,14 @@ e) Todas as afirmações estão corretas
 ## Questão 03 
 ​No caso da Indústria de Atum / Dolphin Safe, que conversamos em nossa aula, podemos afirmar que:
 
-### Resposta:
+a) ​A pressão dos públicos de interesse foi fundamental para a mudança de postura da indústria
+b) ​A ideia e implementação da certificação demonstra por parte da indústria uma preocupação em relação a demonstrar não só o que ela produz, mas também o como ela produz
+c) ​Não existe alteração na percepção de valor da empresa devido a ações como a adoção do selo Dolphin Safe
+d) ​Alternativa C e A estão corretas
 e) As alternativas A e B estão corretas
+
+### Resposta:
+Letra E
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -68,8 +86,14 @@ e) As alternativas A e B estão corretas
 
 Com base no texto acima podemos concluir que:
 
-### Resposta:
+a) ​Reputação é algo a ser construído em tempos de crise
+b) ​Só conseguimos ter uma boa Reputação se tivermos uma marca forte
+c) O importante é trabalhar aspectos da Reputação e não adquirir a mesma de forma verdadeira
 d) Tempos de crise são épocas interessantes para que as empresas validem algumas das percepções que seus públicos possuem
+e) ​Nenhuma das alternativas está correta
+
+### Resposta:
+Letra D
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -82,8 +106,15 @@ d) Tempos de crise são épocas interessantes para que as empresas validem algum
 Assim como os seres humanos, cada empresa possui atributos relacionados à imagem e reputação. Preservar e/ou melhorar esta imagem e reputação em certos casos passa a ser um referencial de qualidade.
 Quando analisamos a afirmação acima, podemos concluir:
 
-### Resposta:
+
+a) A reputação pessoal e a organizacional (das empresas) partem dos mesmos princípios
+b) Sem uma boa reputação, o distanciamento entre a empresa e seus públicos não existirá
+c) Uma empresa sem reputação certamente terá problemas para transmitir uma boa percepção de qualidade de seus produtos e serviços
 d) ​As alternativas A e C estão corretas
+e) ​As alternativas B e C estão incorretas
+
+### Resposta:
+Letra D
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -99,8 +130,14 @@ d) ​As alternativas A e C estão corretas
 ## Questão 06 
 ​Quando uma marca de cadernos escolares coloca em sua capa que este (o caderno) é produzido com madeira de reflorestamento, podemos considerar qual alternativa a seguir como objetivo desta mensagem:
 
-### Resposta:
+a) Demonstrar do que é feito o caderno
+b) Aumentar a visibilidade de seu produto frente a concorrência
+c) ​Reforçar sua marca
+d) ​Transmitir de forma clara como desenvolve seus produtos visando uma boa reputação
 e) ​Todas as alternativas estão corretas
+
+### Resposta:
+Letra E
 
 > SOLUÇÃO DO PROFESSOR ✨
 >

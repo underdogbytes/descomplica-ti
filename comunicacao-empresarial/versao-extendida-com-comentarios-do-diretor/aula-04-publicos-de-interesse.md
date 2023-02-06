@@ -7,7 +7,11 @@
 Qual das alternativas abaixo está mais relacionada ao tema de Objetivos Conflitantes que discutimos em aula?
 
 ### Resposta:
-- d) ​É natural que cada público tenha objetivos distintos em seu relacionamento com as empresas
+- [ ] a) ​Todos os públicos possuem os mesmos objetivos quando se relacionam com uma empresa
+- [ ] b) Os relacionamentos de uma empresa com seus públicos possuem divergências parciais
+- [ ] c) ​O conflito de interesse é algo a ser combatido pela empresa junto a seus públicos
+- [x] d) ​É natural que cada público tenha objetivos distintos em seu relacionamento com as empresas
+- [ ] e) Alternativa C e D estão corretas
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -27,7 +31,11 @@ Considere as afirmações abaixo:
 Marque a opção correta em relação às definições de Públicos de Interesse:
 
 ### Resposta:
-- a) ​As afirmações I e II estão corretas
+- [x] a) ​As afirmações I e II estão corretas
+- [ ] b) ​As afirmações II e III estão corretas
+- [ ] c) ​Apenas a afirmação I está correta
+- [ ] d) ​As afirmações I e III estão corretas
+- [ ] e) ​Todas as afirmações estão corretas
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -44,7 +52,11 @@ Marque a opção correta em relação às definições de Públicos de Interesse
 ​Qual das alternativas abaixo não refletem um tipo de classificação de Públicos de Interesse, quando utilizamos a Matriz de Potencial de Ameaça X Potencial de Colaboração?
 
 ### Resposta:
-- c) ​Engajados
+- [ ] a) ​Dispostos
+- [ ] b) ​Marginais
+- [x] c) ​Engajados
+- [ ] d) ​Ambíguos
+- [ ] e) ​Indispostos
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -62,7 +74,11 @@ Marque a opção correta em relação às definições de Públicos de Interesse
 Como podemos definir um Público de Interesse classificado como Disposto a Apoiar na Matriz de Potencial de Ameaça X Potencial de Colaboração?
 
 ### Resposta:
-- a) ​Nível de Ameaça Baixa e Nível de Colaboração Alta
+- [x] a) ​Nível de Ameaça Baixa e Nível de Colaboração Alta
+- [ ] b) ​Nível de Ameaça Baixa e Nível de Colaboração Baixa
+- [ ] c) ​Nível de Ameaça Alta e Nível de Colaboração Baixa
+- [ ] d) Nível de Ameaça Alta e Nível de Colaboração Alta
+- [ ] e) ​Nível de Ameaça Média e Nível de Colaboração Médio
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -75,7 +91,11 @@ Como podemos definir um Público de Interesse classificado como Disposto a Apoia
 ​Como podemos definir um Público de Interesse classificado como Marginal na Matriz de Potencial de Ameaça X Potencial de Colaboração?
 
 ### Resposta:
-- b) ​Nível de Ameaça Baixa e Nível de Colaboração Baixa
+- [ ] a) ​Nível de Ameaça Baixa e Nível de Colaboração Alta
+- [x] b) ​Nível de Ameaça Baixa e Nível de Colaboração Baixa
+- [ ] c) Nível de Ameaça Alta e Nível de Colaboração Baixa
+- [ ] d) ​Nível de Ameaça Alta e Nível de Colaboração Alta
+- [ ] e) ​Nível de Ameaça Média e Nível de Colaboração Médio
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
@@ -88,7 +108,11 @@ Como podemos definir um Público de Interesse classificado como Disposto a Apoia
 ​Como podemos definir um Público de Interesse classificado como Ambíguo na Matriz de Potencial de Ameaça X Potencial de Colaboração?
 
 ### Resposta:
-- d) ​Nível de Ameaça Alta e Nível de Colaboração Alta
+- [ ] a) Nível de Ameaça Baixa e Nível de Colaboração Alta
+- [ ] b) ​Nível de Ameaça Baixa e Nível de Colaboração Baixa
+- [ ] c) Nível de Ameaça Alta e Nível de Colaboração Baixa
+- [x] d) ​Nível de Ameaça Alta e Nível de Colaboração Alta
+- [ ] e) Nível de Ameaça Média e Nível de Colaboração Médio
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
