@@ -7,7 +7,11 @@
 ​Qual dos itens **não** auxilia na formação da imagem de uma empresa?
 
 ### Resposta:
-- c) ​Pontos de contatos desenvolvidos
+- [ ] a) Informações que possui
+- [ ] b) ​Forma que adquiriu as informações
+- [x] c) ​Pontos de contatos desenvolvidos
+- [ ] d) ​Maneira que agrupa as informações
+- [ ] e) ​Percepções e experiências sobre as informações
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -26,7 +30,11 @@
 ​Podemos afirmar que comunicação empresarial é:
 
 ### Resposta:
-- d) ​As alternativas B e C estão corretas
+- [ ] a) ​Processo por meio do qual os públicos de interesse transformam a identidade da empresa
+- [ ] b) ​A atividade e o esforço deliberado, planejado e contínuo para estabelecer e manter a compreensão mútua entre uma instituição pública ou privada e os grupos de pessoas a que esteja direta ou indiretamente ligada
+- [ ] c) O esforço das corporações em construir bons relacionamentos com seus diversos públicos para obter publicidade favorável e construir uma boa imagem corporativa
+- [x] d) ​As alternativas B e C estão corretas
+- [ ] e) ​Todas as alternativas estão corretas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -46,7 +54,11 @@
 ​Qual alternativa abaixo não está relacionada à necessidade que as empresas possuem de desenvolver estratégias de Comunicação Empresarial?
 
 ### Resposta:
-- b) Marketing digital
+- [ ] a) Maior número de concorrentes
+- [x] b) Marketing digital
+- [ ] c) Produtos muito similares
+- [ ] d) ​Rápida erosão das vantagens competitivas
+- [ ] e) ​Necessidade de gestão de sua imagem e reputação
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -66,7 +78,11 @@
 Discutimos em nossa aula, que empresas como a Unilever, utilizaram estratégias de Comunicação Empresarial em casos como o da contaminação que ocorreu em algumas embalagens do suco ADES. Esta utilização foi necessária para:
 
 ### Resposta:
-- d) ​Demonstrar a todos os seus públicos a responsabilidade da empresa perante a qualidade, entrega e segurança de todos os seus produtos
+- [ ] a) Blindar a marca Unilever de problemas relacionados ao desempenho financeiro
+- [ ] b) ​Demonstrar que a Unilever como empresa não pode se responsabilizar por tudo que ocorre com seus produtos
+- [ ] c) ​Acalmar seus colaboradores quanto a repercussão do caso
+- [x] d) ​Demonstrar a todos os seus públicos a responsabilidade da empresa perante a qualidade, entrega e segurança de todos os seus produtos
+- [ ] e) ​Demonstrar que sua identidade estava alinhada à percepção de seus públicos
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -77,7 +93,11 @@ Discutimos em nossa aula, que empresas como a Unilever, utilizaram estratégias 
 ​A reação da Pepsico no caso do Toddynho que discutimos em aula está relacionado a qual ponto abaixo?
 
 ### Resposta:
-- e) ​Bom relacionamento com seus públicos
+- [ ] a) Público Interno
+- [ ] b) ​Colaboradores
+- [ ] c) ​Falta de simetria no diálogo
+- [ ] d) ​Grupos de pressão isolados
+- [x] e) ​Bom relacionamento com seus públicos
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -96,7 +116,11 @@ Leia as afirmações abaixo
 Marque a opção correta:
 
 ### Resposta:
-- a) ​As afirmações I e II estão corretas
+- [x] a) ​As afirmações I e II estão corretas
+- [ ] b) ​As afirmações II e III estão corretas
+- [ ] c) ​Apenas a afirmação I está correta
+- [ ] d) ​As afirmações I e III estão corretas
+- [ ] e) ​Todas as afirmações estão corretas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -106,8 +130,6 @@ Marque a opção correta:
 >
 > iii. A quantidade de concorrentes que existe em um segmento de mercado não afeta de forma direta a necessidade, por parte de uma empresa, de utilizar uma estratégia de Comunicação Empresarial. - ERRADA. Um dos fatores que impactam diretamente na necessidade de se estabelecer estratégias de comunicação empresarial é a quantidade de concorrentes que existem nos mercados. Como a concorrência é muito grande, a comunicação empresarial se torna essencial para que a empresa consiga estabelecer um diferencial.
 
-
----
 
 ## Pensar & Responder
 > ​Por que é importante para empresas como Pepsico e Mondelez utilizarem estratégias de Comunicação Empresarial? Cite 02 razões.

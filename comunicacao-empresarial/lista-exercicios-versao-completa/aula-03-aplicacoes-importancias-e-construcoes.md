@@ -1,14 +1,18 @@
 # Comunicação Empresarial: Aplicações, Importâncias e Construções
 
 
-## Exercícios
+## Exercícios (com todas as opções)
 
 
 ## Questão 01 
 ​Qual o objetivo da Comunicação Empresarial realizada pela GVT e que discutimos em aula, quando da sua entrada no mercado de São Paulo?
 
 ### Resposta:
-c) ​Demonstrar o que a empresa é por meio de suas qualificações
+- [ ] a) Comunicar seus planos de Internet e TV por Assinatura
+- [ ] b) ​Vender sua imagem para os acionistas
+- [x] c) ​Demonstrar o que a empresa é por meio de suas qualificações
+- [ ] d) ​Apresentar suas atividades de sustentabilidade​
+- [ ] e) ​Apresentar suas atividades de sustentabilidade​
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -29,7 +33,11 @@ Leia as afirmações abaixo:
 Marque a opção correta:
 
 ### Resposta:
-- e) ​Todas as afirmações estão corretas
+- [ ] a) ​As afirmações I e II estão corretas
+- [ ] b) As afirmações II e III estão corretas
+- [ ] c) Apenas a afirmação I está correta
+- [ ] d) ​As afirmações I e III estão corretas
+- [x] e) ​Todas as afirmações estão corretas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -46,7 +54,11 @@ Marque a opção correta:
 Quando iniciamos um plano de Comunicação Empresarial, quais são as primeiras informações que devemos ter de uma empresa?
 
 ### Resposta:
-- d) ​Missão, Visão e Valores da organização
+- [ ] a) ​Planejamento Estratégico
+- [ ] b) Valores da Marca
+- [ ] c) ​Plano de Marketing dos próximos anos
+- [x] d) ​Missão, Visão e Valores da organização
+- [ ] e) ​Análise de sua imagem atual
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -58,7 +70,11 @@ Quando iniciamos um plano de Comunicação Empresarial, quais são as primeiras 
 Podemos definir Missão como:
 
 ### Resposta:
-- c) Expressão que designa o que uma organização é , quais as razões de sua existência, quais são seus propósitos
+- [ ] a) ​Ideias fundamentais, convicções dominantes que sinalizam o que a empresa persegue em termos de padrão de comportamento
+- [ ] b) ​O que a organização quer ser no futuro, aonde deseja chegar
+- [x] c) Expressão que designa o que uma organização é , quais as razões de sua existência, quais são seus propósitos
+- [ ] d) ​Alternativas A e B combinadas
+- [ ] e) ​Alternativas B e C combinadas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -71,7 +87,11 @@ Podemos definir Missão como:
 Podemos definir Visão como:
 
 ### Resposta:
-- b) ​O que a organização quer ser no futuro, aonde deseja chegar
+- [ ] a) ​Ideias fundamentais, convicções dominantes que sinalizam o que a empresa persegue em termos de padrão de comportamento
+- [x] b) ​O que a organização quer ser no futuro, aonde deseja chegar
+- [ ] c) ​Expressão que designa o que uma organização é, quais as razões de sua existência, quais são seus propósitos
+- [ ] d) ​Alternativas A e B combinadas
+- [ ] e) ​Alternativas B e C combinadas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
@@ -84,7 +104,11 @@ Podemos definir Visão como:
 ​Podemos definir Valores como:
 
 ### Resposta:
-- a) ​Ideias fundamentais, convicções dominantes que sinalizam o que a empresa persegue em termos de padrão de comportamento
+- [x] a) ​Ideias fundamentais, convicções dominantes que sinalizam o que a empresa persegue em termos de padrão de comportamento
+- [ ] b) O que a organização quer ser no futuro, aonde deseja chegar
+- [ ] c) ​Expressão que designa o que uma organização é, quais as razões de sua existência, quais são seus propósitos
+- [ ] d) ​Alternativas A e B combinadas
+- [ ] e) ​Alternativas B e C combinadas
 
 > **SOLUÇÃO DO PROFESSOR ✨**
 >
