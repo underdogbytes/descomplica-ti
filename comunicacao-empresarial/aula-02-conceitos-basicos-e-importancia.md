@@ -129,3 +129,9 @@ Marque a opção correta:
 >ii. Identidade, Imagem e Reputação são pontos fundamentais na construção do entendimento sobre o que é Comunicação Empresarial. - CORRETA. Quando compreendemos o conceito de comunicação empresarial, vemos que esses três elementos são fundamentais. Para isso, vale relembrar um dos conceitos de Comunicação Empresarial, que é “o processo por meio do qual os públicos de interesse percebem a identidade, a imagem e a reputação da empresa.”
 >
 > iii. A quantidade de concorrentes que existe em um segmento de mercado não afeta de forma direta a necessidade, por parte de uma empresa, de utilizar uma estratégia de Comunicação Empresarial. - ERRADA. Um dos fatores que impactam diretamente na necessidade de se estabelecer estratégias de comunicação empresarial é a quantidade de concorrentes que existem nos mercados. Como a concorrência é muito grande, a comunicação empresarial se torna essencial para que a empresa consiga estabelecer um diferencial.
+
+
+## Pensar & Responder
+> ​Por que é importante para empresas como Pepsico e Mondelez utilizarem estratégias de Comunicação Empresarial? Cite 02 razões.
+
+Além de melhorar a imagem para o público (seja consumidores, imprensa, investidores etc), uma boa comunicação empresarial ajuda em situações de problemas, porque por conta da boa imagem, reputação e identidade que foram construídas anteriormente, o público tem a compreensão que a empresa é responsável e dá seu voto de confiança de que o problema será resolvido.
