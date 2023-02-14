@@ -121,7 +121,9 @@ Qual a quantidade aproximada de memória de computador que esse funcionário pre
 Para responder, faça as hipóteses que julgar necessárias!
 
 ## Resposta
-**AVISO: FONTE ARIAL 12 (NÃO SEI SE TÁ CERTO)**
+> **ATENÇÃO!**
+> Nota atingida com essa resposta: 10
+
 
 O funcionário precisa de 210 MB para armazenar o acervo.
 
