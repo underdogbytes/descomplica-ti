@@ -9,7 +9,7 @@
 
 ## Resumo da aula
 
-📄 Resumo da aula: <br> Módulo - Bloco - aula 0
+📄 Resumo da aula: Módulo
 
 Matéria: example
 Módulo: example
