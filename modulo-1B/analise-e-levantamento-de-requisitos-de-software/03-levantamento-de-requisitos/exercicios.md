@@ -1,129 +1,124 @@
-# Análise e Levantamento de Requisitos de Software: Engenharia de Requisitos
+# Análise e Levantamento de Requisitos de Software: Levantamento de Requisitos
 
 ## Exercícios
 
 
 ## Questão 01 
-Leia atentamente o seguinte trecho de um mini mundo de Pet Shop:
+A metodologia Orientada a Objetos possui características específicas para desenvolvimento dos sistemas: Dirigido por Caso de Uso, Iterativo e Incremental e Centrado em Arquitetura.
 
-“A Pet Shop Animada possui um sistema online e disponibiliza a atividade de marcação de horários via web para seus clientes.  O veterinário registra todo serviço realizado, como consulta e aplicação de vacinas, para manter o histórico de atendimento e, assim, poder fazer propagandas e estreitamento com o cliente através de mensagens eletrônicas.”
-
-Assinale a alternativa que identifica Requisitos Funcionais:
+Marque a alternativa que explica o Processo Dirigido por Caso de Uso:
 
 ### Resposta:
-- [ ] a) Sistema web e registrar serviços.
-- [ ] b) Marcar horários e estabelecer a comunicação via email.
-- [ ] c) Estabelecer a comunicação via email e gerar comunicação.
-- [x] d) ​Registrar serviços e gerar comunicações.
-- [ ] e) ​Sistema web e estabelecer a comunicação via email.
+- [ ] a) As iterações que acontecem no processo de desenvolvimento conduzem o processo de desenvolvimento.
+- [ ] b) ​A arquitetura gerada a cada iteração estabelece a integração das atividades no processo de desenvolvimento.
+- [ ] c) Os requisitos definem a arquitetura gerada a cada iteração.
+- [ ] d) ​As etapas do processo de desenvolvimento de sistema são definidas por caso de uso.
+- [x] e) ​A integração entre as etapas no processo de desenvolvimento é realizada pelos requisitos de sistema.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> A letra D é a alternativa correta, pois Registrar serviços e gerar comunicações são FUNCIONAIS. Sistema Web e Estabelecer a comunicação via email são NÃO FUNCIONAIS. Marcar horários é um requisito FUNCIONAL, mas na alternativa está acompanhada de um requisito não funcional.​​
+> ​A letra E é a alternativa correta, pois como os casos de uso representam os requisitos, o processo de desenvolvimento é integrado pelos requisitos. As iterações não conduzem o processo de desenvolvimento, representam cada execução do ciclo de vida iterativo e incremental, gerando uma nova parte do sistema. A arquitetura gerada a cada iteração não integra as atividades e sim incrementa o sistema em desenvolvimento. As etapas existem, não são definidas por caso de uso, são realizadas para desenvolvimento de um caso de uso.
 >
 > Prof. Maria Alice Albuquerque Rosa
 
 
 ## Questão 02 
-​Várias são as fontes de coleta de requisitos. Marque a alternativa que denomina a fonte que utiliza do conhecimento que o Analista de Sistema já possui do negócio:
+O workflow de requisitos definido na Metodologia Orientada a Objetos, para organizar as atividades realizadas por trabalhadores no desenvolvimento de um projeto, propõe a geração de artefatos como resultado.
+
+Marque a alternativa que identifica o artefato da atividade Capturar Vocabulário Comum:
 
 ### Resposta:
-- [ ] a) Fontes Humanas.
-- [ ] b) Ambiente de funcionamento do sistema.
-- [x] c) ​Conhecimento do Domínio.
-- [ ] d) ​Análises de Mercado.
-- [ ] e) ​Análise de Produtos Competidores.
+- [x] a) ​Glossário.
+- [ ] b) ​Escopo.
+- [ ] c) Casos de uso detalhados.
+- [ ] d) ​Esboço de caso de uso.
+- [ ] e) Protótipo de interface.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> ​A letra C é a alternativa correta, pois conhecimento do domínio refere-se ao que o analista já entende sobre o negócio por experiências anteriores. Fontes Humanas são usuários diretos e indiretos; Ambiente onde o Sistema Funcionará, empresas conveniadas, governo, setores relacionados que afetam direta ou indiretamente a realização do negócio; Análises de Mercado oferecem a visão dos recursos utilizados e explorados no mercado; Análise de Produtos Competidores, observa os produtos já disponíveis no mercado.
+> ​A letra A é a alternativa correta, pois na atividade Capturar Vocabulário Comum, quando o analista de sistema busca conhecer os termos técnicos utilizados no negócio do cliente, é produzido um GLOSSÁRIO. O escopo não é artefato, mas é obtido na atividade “Desenvolver Visão”; casos de uso detalhado pode-se considerar da atividade “Detalhar Caso de Uso”; esboço de caso de uso é desenvolvido na atividade “Achar Casos de Uso e Atores” e protótipo de interface na atividade “Protótipo de Interface”.
 >
 > Prof. Maria Alice Albuquerque Rosa
 
 
 ## Questão 03 
-Os tipos de requisitos são apropriados aos usuários dentro de suas funções. Sendo assim, analise as seguintes afirmativas:
+O analista de teste / revisor no processo de desenvolvimento de sistema é um profissional que realiza a validação dos requisitos.
 
-I - Os gerentes de clientes possuem o olhar voltado somente aos requisitos de usuários, assim como os desenvolvedores de software.
+Analise as seguintes afirmativas:
 
-II - Os usuários de sistemas estão envolvidos com os requisitos de usuários e, também, requisitos de sistema.
+I - A validação acontece para a liberação da parte desenvolvida ao final da iteração.
 
-III - Os arquitetos de sistemas se preocupam somente com os requisitos de sistemas.
+II - Validar requisitos é aplicado para autorizar a prototipação da interface.
+
+III - O artefato gerado na atividade “Revisar Requisitos” é a revisão de todos os artefatos produzidos nas atividades anteriores.
+
+
+Assinale a alternativa correta:
 
 ### Resposta:
 - [ ] a) ​As afirmativas I e II estão corretas.
-- [ ] b) ​As afirmativas I e III estão corretas.
+- [x] b) As afirmativas I e III estão corretas.
 - [ ] c) As afirmativas II e III estão corretas.
 - [ ] d) ​As afirmativas I, II e III estão corretas.
-- [x] e) ​Somente a afirmativa II está correta.
+- [ ] e) ​Somente a afirmativa I está correta.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> ​A letra E é a alternativa correta, pois os usuários de sistemas estão envolvidos com os requisitos de usuários e, também, requisitos de sistema. Na afirmativa I, os desenvolvedores de software estão envolvidos somente com os requisitos de sistema. Já na afirmativa III os arquitetos de sistemas também se envolvem com os requisitos de usuários.
+> ​A letra B é a alternativa correta, pois as afirmativas I e III correspondem à atividade de revisão. A afirmativa II não está correta, porque a validação não autoriza a prototipação. Na verdade, a revisão utiliza a prototipação para validação.
 >
 > Prof. Maria Alice Albuquerque Rosa
 
 
 ## Questão 04 
-O levantamento de requisitos é uma tarefa do analista de sistemas que requer muita atenção e dedicação e vários aspectos são considerados para o sucesso.
-
-Leia atentamente as alternativas a seguir e marque a que define um procedimento do analista de sistemas na realização da tarefa de levantamento de requisitos:
+​Considerando o workflow RUP de requisitos, marque a alternativa que denomina atividades desenvolvidas pelo Analista de Sistemas:
 
 ### Resposta:
-- [x] a) Buscar junto aos usuários diretos ou indiretos os requisitos funcionais, requisitos do produto e requisitos organizacionais.
-- [ ] b) ​Compreender os requisitos funcionais prioritariamente aos requisitos não funcionais.
-- [ ] c) ​Utilizar linguagens de programação e arquitetura de sistemas mais conhecidos.
-- [ ] d) ​Fazer prevalecer seu conhecimento do domínio, já que a experiência tem significado relevante.
-- [ ] e) ​Entender os requisitos de sistemas a partir de sistemas já instalados.
+- [ ] a) Detalhar Caso de Uso, Estruturar Modelo de Caso de Uso.
+- [ ] b) ​Priorizar Caso de Uso, Detalhar Caso de Uso.
+- [ ] c) Desenvolver Visão, Priorizar Caso de Uso.
+- [x] d) ​Achar Casos de Uso e Atores, Estruturar Modelo de Caso de Uso.
+- [ ] e) ​Desenvolver Visão, Detalhar Caso de Uso.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> ​A letra A é a alternativa correta, pois o analista de sistemas deve sempre buscar junto aos usuários os requisitos do negócio.  Os requisitos funcionais não são prioridades diante os requisitos não funcionais. Todos devem ser considerados na construção. A linguagem de programação e arquitetura devem ser definidas em acordo com a empresa, visto que já pode ter um ambiente definido e, o fato da tecnologia ser conhecida, não obrigatoriamente, será a escolhida. O conhecimento prévio é relevante na busca das informações, mas não deve prevalecer. Conhecer sistemas antigos já implantados é uma prática para saber o que já se tem, principalmente os dados, mas não é uma fonte de levantamento de requisitos.  É preciso conhecer o negócio para saber avaliar o que o sistema antigo não atende, por exemplo.
+> ​A letra D é a alternativa correta, pois as atividades “Achar Casos de Uso e Atores” e “Estruturar Modelo de Caso de uso” são definidas para o trabalhador Analista de Sistema. 
 >
 > Prof. Maria Alice Albuquerque Rosa
 
 
 ## Questão 05 
-​Um requisito funcional é a classificação para as ações que realizam o negócio. Um requisito não funcional define como o negócio será realizado. Neste sentido, marque a alternativa que indica um requisito não funcional:
+Sabemos que no workflow RUP de requisitos as atividades são distribuídas entre 5 trabalhadores. Marque a alternativa que identifica, respectivamente, os trabalhadores das atividades: “Detalhar Caso de Uso” e “Gerenciar Dependências”.
 
 ### Resposta:
-- [ ] a) Registrar os dados dos clientes.
-- [x] b) ​Proteger os dados contra invasões.
-- [ ] c) ​Verificar disponibilidade em estoque do produto.
-- [ ] d) ​Emitir nota fiscal.
-- [ ] e) ​O acesso ao pedido deverá ser autorizado somente aos clientes cadastrados.
+- [x] a) ​Especificador de Caso de Uso e Analista de Sistema.
+- [ ] b) ​Analista de Sistema e Arquiteto.
+- [ ] c) ​Especificador de Caso de Uso e Analista de Teste/Revisor.
+- [ ] d) ​Arquiteto e Analista de Sistemas.
+- [ ] e) ​Arquiteto e Especificador de Caso de Uso.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> ​A letra B é a alternativa correta, pois proteger os dados contra invasões implica em definições de tecnologia (confiabilidade). Os demais requisitos apresentados são funcionais, pois se referem às atividades ou regra de negócio.
+> ​A letra A é a alternativa correta, pois a atividade “Detalhar caso de uso” é atribuída ao trabalhador Especificador de Caso de uso e Gerenciar Dependências ao Analista de Sistemas. Ao Arquiteto cabe “Priorizar Caso de Uso” e ao Analista de Teste/Revisor, “Revisar Requisitos”.
 >
 > Prof. Maria Alice Albuquerque Rosa
 
 
 ## Questão 06 
-(ENADE-2017-adaptado) Na fase de levantamento de requisitos do processo de desenvolvimento de software, devem-se identificar as regras de negócio, os requisitos funcionais e os requisitos não funcionais do sistema.
+Considere as seguintes definições de Engenharia de Software:
 
-Considerando um cenário em que um vendedor de sorvetes tenha o objetivo de gerenciar suas vendas com o uso de um aplicativo, avalie os itens a seguir:
+1.   Engenharia de Requisitos é um processo usado para descobrir, analisar, validar e documentar requisitos de sistema.
 
-I - Regra de negócio: entregar o sorvete ao cliente somente mediante pagamento; Requisito funcional: reabastecer o estoque quando a quantidade de sorvetes atingir o mínimo; Requisito não funcional: especificar o tempo de resposta do aplicativo.
-
-II - Regra de negócio: aplicar promoções vigentes na realização da venda; Requisito funcional: calcular a quantidade de sorvetes no estoque; Requisito não funcional: exibir relatório com o balanço de vendas.
-
-III - Regra de negócio: aceita somente pagamentos com cartão de débito ou crédito; Requisito funcional: consultar a quantidade de vendas; Requisito não funcional: verificar a possibilidade de indisponibilidade do sistema.
-
-IV - Regra de negócio: conceder aos clientes que comprarem 2 sorvetes um desconto de 10%; Requisito funcional: processar a venda do sorvete; Requisito não funcional: verificar o tempo gasto com o treinamento para utilização do aplicativo.
-
-Assinale a alternativa que descreve corretamente Regra de negócio, Requisito Funcional e Requisito Não Funcional:
+2.   Engenharia de requisitos é um processo inserido na engenharia de software que considera a definição dos requisitos de um sistema, levando em consideração a criatividade, interação de diferentes pessoas, informações da empresa e governamentais, conhecimento e experiência dos envolvidos para representação de modelos e geração de documentação.
 
 ### Resposta:
-- [ ] a) As afirmativas I, II e IV estão corretas.
-- [ ] b) ​As afirmativas I, III e IV estão corretas.
-- [ ] c) ​As afirmativas I e II estão corretas.
-- [ ] d) ​As afirmativas II e III estão corretas.
-- [x] e) ​As afirmativas III e IV estão corretas.
+- [ ] a) ​As duas definições estão corretas e a definição 2 complementa a definição 1.
+- [ ] b) ​Somente a definição 1 está correta.
+- [x] c) ​As duas definições estão corretas e a definição 1 complementa a definição 2.
+- [ ] d) Somente a definição 2 está correta.
+- [ ] e) ​A definição 1 é uma repetição da definição 2.
 
 > SOLUÇÃO DO PROFESSOR ✨
 >
-> ​A letra E é a alternativa correta, pois as afirmativas III e IV apresentam a identificação correta para as atividades do negócio. Na afirmativa I,  “Reabastecer o estoque quando a quantidade de sorvetes atingir o mínimo” é uma REGRA DE NEGÓCIO. Na afirmativa II, “Exibir relatório com o balanço de vendas” é um requisito FUNCIONAL. 
+> ​A letra C é a alternativa correta, pois as duas definições estão corretas e a definição 1 complementa a definição 2, pois sintetiza as atividades da Engenharia de Software.
 >
 > Prof. Maria Alice Albuquerque Rosa

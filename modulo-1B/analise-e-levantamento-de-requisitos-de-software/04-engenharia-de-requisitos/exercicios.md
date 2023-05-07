@@ -1,4 +1,4 @@
-# Análise e Levantamento de Requisitos de Software: Processos de Levantamento de Requisitos
+# Análise e Levantamento de Requisitos de Software: Engenharia de Requisitos
 
 ## Exercícios
 
