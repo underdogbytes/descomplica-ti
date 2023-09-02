@@ -1,0 +1,29 @@
+# Qualidade de Software
+
+Podemos ter contato com diversos produtos em nosso cotidiano. Para realizar tarefas pessoais e profissionais, é comum utilizarmos ferramentas, sejam elas aplicativos de celular, aplicações para computadores desktop ou ferramentas físicas como um martelo ou até uma caneta. Para escolher quais ferramentas iremos utilizar para realizar nossas tarefas, levamos em conta aspectos diferentes. Por exemplo, a melhor caneta para uma pessoa pode ser a mais resistente e que permita escrever mais, já outra pessoa pode levar em consideração aspectos estéticos da caneta, como também, a sua marca.
+
+Mas o que torna estes produtos e serviços diferentes? Por que as pessoas podem ter preferência por determinados produtos? Uma das respostas possíveis para esta questão está na qualidade destes produtos. Porém, pode ser difícil definir o que é qualidade, basta lembrar do exemplo da caneta. Outro exemplo seria de um produto digital, como um editor de textos online, em que um usuário corporativo pode considerar segurança um aspecto essencial, enquanto um usuário estudantil pode preferir a usabilidade.
+
+Sejam os produtos físicos ou digitais, o fato é que a qualidade é importante, pois influencia na decisão de uso destes produtos, em sua percepção de utilidade, e inclusive em decisões de compra. Especificamente neste curso, iremos entrar em detalhes sobre a qualidade de produtos digitais (qualidade de software).
+
+Para entender o que é qualidade de software, convém destacar como um software é construído. De forma simplificada, podemos considerar que primeiro há uma especificação do que o software deve fazer (especificação de requisitos), então uma gerência de um projeto para organizar as atividades de desenvolvimento, o escopo e outros aspectos relevantes, e, por fim, há a aplicação de um processo de desenvolvimento de software. Veremos como a qualidade de software está relacionada com cada uma destas etapas.
+
+Primeiro, o software deve atender a uma especificação. Isto é, devemos saber o que o software deve fazer para verificar se ele está satisfazendo as necessidades. Observe que produtos físicos utilizados de forma errada podem levar a acidentes e ao não cumprimento da tarefa desejada, o mesmo é verdade para software. Um editor online pode ter como restrição o funcionamento apenas com conexão estável de Internet, e desta forma está especificado para operar nestas condições. Se o usuário estiver com uma conexão intermitente, ele pode se frustrar ao usar o editor, porém é importante pensar se o editor deveria de fato funcionar no cenário específico.
+
+Uma gerência efetiva de projeto permite a gestão de escopo (o que deve ser desenvolvido) em conjunto com a organização de recursos e atividades de desenvolvimento. É comum ocorrer pressão do mercado para lançamento de produtos de forma rápida, porém é essencial conseguir gerenciar o escopo de forma que um produto incompleto e com baixa qualidade não seja lançado.
+
+Por fim, um processo de desenvolvimento de software pode auxiliar a garantir a qualidade de produtos de software de uma empresa. Quando há um desenvolvimento profissional, a qualidade de produtos de software de uma empresa não deveria depender da equipe que desenvolveu o software, isto é, deveria haver um nível de qualidade mínimo que todos os produtos lançados por esta empresa deveriam respeitar. Para isso, o uso de processos padronizados de desenvolvimento, com melhores práticas, e processos de verificação e validação podem contribuir para garantir a qualidade. Em especial, os processos de verificação e validação auxiliam na melhoria contínua do processo de desenvolvimento ao permitir medir a qualidade conforme padrões pré-estabelecidos em normas técnicas. Afinal, só é possível melhorar ao aferir, ao medir o nível atual de qualidade.
+
+Podemos considerar que a qualidade de software está, portanto, diretamente ligada ao gerenciamento do projeto, ao processo de desenvolvimento e à sua especificação de requisitos (GALLOTTI, 2015).
+
+É claro que tudo isso não é tão simples. A qualidade possui custos associados, e para atender a níveis maiores de qualidade, maiores investimentos são necessários. Porém, a aplicação destes recursos pode ocorrer de duas formas: de forma reativa, na detecção de defeitos, ou de forma proativa, na prevenção de defeitos (GALLOTTI, 2015). Defeitos são eventos que afetam negativamente a percepção de qualidade de um software perante um usuário. Por exemplo, se um editor online possui uma funcionalidade de busca por palavras-chave no texto presente em sua especificação, porém o usuário verifica que esta funcionalidade não funciona, isto é um defeito. Para melhorar a qualidade, podemos ter procedimentos para detectar defeitos no processo ou nos produtos resultantes e assim corrigir algum bug em uma nova versão do software. Outra forma é entender em qual etapa do processo de desenvolvimento de software o problema poderia ter sido detectado e corrigido, e, desta forma, aplicar alguma medida proativa como um treinamento da equipe de desenvolvedores ou um refinamento do planejamento do projeto.
+
+
+## Atividade Extra
+
+Considerando o controle de qualidade e a importância de um processo padronizado de desenvolvimento, recomenda-se assistir ao filme “Fome de Poder” (título em inglês: “The Founder”, de 2016). O filme conta a história de como uma franquia de fast-food conseguiu expandir seu negócio baseado em uma maior eficiência. Observe como um processo padronizado permitiu garantir um nível comum de qualidade entre os diversos restaurantes da franquia e faça um paralelo com a padronização de um processo de desenvolvimento de software em uma empresa que deve garantir um nível comum de qualidade nos produtos digitais que lança.
+
+
+## Referência Bibliográfica
+
+GALLOTTI, G. M. A. (Org.). Qualidade de software. Pearson: 2015.
