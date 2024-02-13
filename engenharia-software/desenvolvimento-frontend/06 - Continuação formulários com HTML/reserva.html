@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserva</title>
+
+    <style>
+      form {
+        margin: 0 auto;
+        max-width: 400px;
+      }
+
+      fieldset {
+        display: grid;
+      }
+
+      input[type=text],
+      input[type=submit],
+      select {
+        width: 100%;
+      }
+
+      input[type=submit] {
+        margin: .8em auto;
+        padding: .5em 1em;
+        border-radius: .2em;
+        background-color: lightskyblue;
+        text-transform: uppercase;
+        font-weight: 900;
+      }
+    </style>
+  </head>
+
+  <body>
+    <section>
+      <form method="" action="">
+
+        <!-- DADOS DE CONTATO -->
+        <fieldset>
+          <legend>Dados de contato</legend>
+          <label for="nome">
+            Nome<br>
+            <input type="text" placeholder="Digite seu nome" maxlength="2">
+          </label>
+
+          <label for="email">
+            E-mail<br>
+            <input type="email" placeholder="exemplo@email.com">
+          </label>
+        </fieldset>
+
+        <!-- SERVIÇOS DESEJADOS -->
+        <fieldset>
+          <legend>Serviços desejados</legend>
+          <label for="passagens">
+            <input type="checkbox" name="passagens" id="" value="passagens">Compra de Passagens
+          </label>
+
+          <label for="hospedagem">
+            <input type="checkbox" name="hospedagem" id="" value="hospedagem">Reserva de Hospedagem
+          </label>
+
+          <label for="veiculos">
+            <input type="checkbox" name="veiculos" id="" value="veiculos">Aluguel de Veículos
+          </label>
+        </fieldset>
+
+        <!-- FORMA DE PAGAMENTO -->
+        <fieldset>
+          <legend>Forma de Pagamento</legend>
+          <label for="meioPagamento">
+            <input type="radio" name="meioPagamento" id="meioPagamento" value="pix">
+            PIX
+          </label>
+
+          <label for="meioPagamento">
+            <input type="radio" name="meioPagamento" id="meioPagamento" value="boleto">
+            Boleto
+          </label>
+
+          <label for="meioPagamento">
+            <input type="radio" name="meioPagamento" id="meioPagamento" value="cartaoDebito">
+            Cartão de Débito
+          </label>
+
+          <label for="meioPagamento">
+            <input type="radio" name="meioPagamento" id="meioPagamento" value="cartaoCredito">
+            Cartão de Crédito
+          </label>
+        </fieldset>
+
+        <!-- PRAZO DE PAGAMENTO -->
+        <fieldset>
+          <legend>Prazo de Pagamento</legend>
+          <label for="fPrazoPagamento">
+            <select name="fPrazoPagamento" id="fPrazoPagamento">
+              <option value="aVista">À Vista</option>
+              <option value="5x">Cinco Vezes Sem Juros</option>
+              <option value="10x">Dez Vezes Com Juro</option>
+            </select>
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Informações adicionais</legend>
+          <textarea cols="30" rows="10" placeholder="Digite aqui..."></textarea>
+        </fieldset>
+
+        <input type="submit" value="salvar">
+      </form>
+    </section>
+  </body>
+
+</html>
