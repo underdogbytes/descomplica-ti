@@ -1,4 +1,4 @@
-## Descomplica ADS
+## Descomplica TI
 ### Bem-vinde ma frem! :D
 
 <p align="center">
