@@ -1,5 +1,7 @@
 ## Descomplica TI
-### Bem-vinde ma frem! :D
+### Boas-vindas!
+
+Você navegou tanto que chegou em um firepit. Pegue uma bebida e descanse aqui :D
 
 <p align="center">
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/tocrossbridge/descomplica-ads?color=pink">
@@ -7,18 +9,23 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/tocrossbridge/descomplica-ads">
 </p>
 
-Gabaritos dos cursos de:
+Esse repositório surgiu com o intuito de registrar os gabaritos dos seguintes cursos da faculdade Descomplica:
+
 - Análise & Desenvolvimento de Sistemas
 - Engenharia de Software
 
-Se você chegou até aqui, muito provavelmente está fazendo algum curso de TI na faculdade Descomplica e quer respostas. Seja lá qual for o motivo pelo qual você quer o gabarito dos exercícios, eles estão aqui. Navegue nas pastas e seja feliz ^-^
+Atualmente, além dos gabaritos, coloquei arquivos de texto para cada matéria com conteúdo extra para melhorar seus estudos.
 
 ---
 
-**Por que fiz esse repo?**
+**Por que fiz esse repo com gabaritos?**
 
-Porque essa não é minha primeira facul, moro sozinha, trampo, tenho uns problemas aí que empacam meu foco e tal, então o sei o quão foda às vezes é _get our shit together_ ^-^''
+Essa não é minha primeira facul. Moro sozinha, trampo, tenho uns problemas neurológicos aí que nerfam minha vida e sei o quão foda às vezes é _get our shit together_ ^-^''
 
-E aquele papo reto né: nota não significa conhecimento, mas pesa na primeira impressão quando batem o olho no nosso histórico. Não fiz as regras do jogo, eu só jogo ele. 🦝
+E aquele papo reto né:
+
+Nota não significa conhecimento, mas pesa na primeira impressão quando batem o olho no nosso histórico estudantil. Não fiz as regras do jogo, eu só jogo ele. 🦝
+
+Então esteja você estando aqui para comer mais cimento ou para pegar o gabarito, não há julgamentos.
 
 _Até breve!_ :D
