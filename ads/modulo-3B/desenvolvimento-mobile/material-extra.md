@@ -2,13 +2,18 @@
 
 Aqui estão links utéis de material de apoio sobre a matéria.
 
+**Observação:**
+
+As aulas foram gravadas antes do standalone ser padrão, ou seja, com Angular abaixo do 17. Por isso pode ser um pouco difícil para acompanhar as aulas.
+
+Acho deveras válido seguir esse tutorial aqui para entender melhor o Angular standalone:
+- [Angular 17](https://youtube.com/playlist?list=PLp50dWW_m40W6u4NxWCsQk1F8CmzBI6r0&si=N4bTzr5mahrj_xCr)
+
 ### Aula 01: Introdução ao Angular
 - [Preparando o ambiente Angular](https://angular.io/guide/setup-local)
 
 ---
 ### Aula 02: Módulos, Rotas e Componentes
-**Observação:**
-As aulas foram gravadas antes do standalone ser padrão, ou seja, com Angular abaixo do 17. Por isso pode ser um pouco difícil para acompanhar as aulas.
 
 Entenda a diferença com este vídeo aqui:
 [Angular: entenda standalone apps agora - Cristian William Dev](https://www.youtube.com/watch?v=rOYzrYLyy_4&t=994s)
