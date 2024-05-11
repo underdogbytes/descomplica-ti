@@ -1,6 +1,6 @@
 # Material extra
 
-Aqui estão links utéis de material de apoio sobre a matéria.
+Aqui estão links utéis de material de apoio sobre cada aula dessa disciplina.
 
 **Observação:**
 
@@ -37,11 +37,14 @@ Documentação oficial:
 Leitura:
 [Angular Pipe: Entenda os parâmetros pure e standalone](https://consolelog.com.br/pipes-nativos-do-angular/#:~:text=Em%20Angular%2C%20um%20"pipe",e%20traz%20vantagens%20em%20performance.)
 
----
-## Em breve:
 ### Aula 04: Rotas e Segurança dos componentes
+
 ### Aula 05: RxJS e dados Assíncronos
+[RXJS](https://rxjs.dev)
+
 ### Aula 06: Manipular dados utilizando JSON
+[GoRest](https://gorest.co.in)
+
 ### Aula 07: Angular Material e Formulários
 ### Aula 08: Formulários
 ### Aula 09: Validação avançada de dados
